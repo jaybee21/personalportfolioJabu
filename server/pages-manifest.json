@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/components/AboutSection": "pages/components/AboutSection.html",
+  "/components/ExperienceCard": "pages/components/ExperienceCard.html",
+  "/components/ExperienceSection": "pages/components/ExperienceSection.html",
+  "/api/hello": "pages/api/hello.js",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.html",
+  "/404": "pages/404.html"
+}
